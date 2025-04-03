@@ -12,7 +12,6 @@ A **Windows Batch script** for easy decompilation of Java `.class` and `.jar` fi
 ## Prerequisites  
 
 - **Java Runtime Environment (JRE 8+)** installed.
-- 
 ## Usage  
 
 1. **Download** the latest release (or clone this repo).  
