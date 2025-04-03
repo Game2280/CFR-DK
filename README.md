@@ -7,7 +7,7 @@ A **Windows Batch script** for easy decompilation of Java `.class` and `.jar` fi
 - **One-click decompilation** of `.class` or `.jar` files.  
 - **Automated output** to a structured folder.  
 - **Supports CFR 0.152** (latest stable version).  
-- **No manual Java commands**—just type "decompile"!  
+- **No manual Java commands** — just type "decompile"!  
 
 ## Prerequisites  
 
