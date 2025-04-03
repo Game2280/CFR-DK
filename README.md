@@ -32,8 +32,8 @@ Output:
 Edit `decompile.bat` to modify CFR arguments (e.g., `--outputdir`, `--decodefinally`).  
 
 ## License  
-
-CFR is © [Lee Benfield](http://www.benf.org/). I am not the creator of CFR.
+CFR is © [Lee Benfield](http://www.benf.org/), distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project (CFR Decompiler Kit) is not affiliated with the original authors of CFR.
 
 ---  
 
