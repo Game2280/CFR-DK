@@ -21,8 +21,7 @@ A **Windows Batch script** for easy decompilation of Java `.class` and `.jar` fi
 5. **Type** decompile [jar or class] [output folder] (output folder optional) 
 
 ## Example  
-`decompile myjar.jar`
-`decompile myjar.jar decompiled`
+`decompile myjar.jar` | `decompile myjar.jar decompiled`
 
 **Output:**  
 **./output/**  # All decompiled .java files  
