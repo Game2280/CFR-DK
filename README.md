@@ -24,7 +24,7 @@ A **Windows Batch script** for easy decompilation of Java `.class` and `.jar` fi
 `decompile myjar.jar` | `decompile myjar.jar decompiled`
 
 **Output:**  
-**./output/**  # All decompiled .java files  
+`./output/  # All decompiled .java files`  
   
 ## Configuration  
 
